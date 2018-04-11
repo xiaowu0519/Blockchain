@@ -22,3 +22,82 @@
 * 大数据交易
 * 跨境支付
 * 股票交易
+
+## 区块链与以太坊
+* 区块链1.0时代：业界从比特币中提取了技术架构和体系，称之为区块链技术。那个时候的应用主要以电子货币和去中心化交易为主，比如各种山寨币。
+
+* 区块链2.0时代：通过以太坊在1.0的基础上实现了区块知晓、价值知晓、图灵完备，并进行了细节优化，从而形成了以智能合约为特色的区块链2.0。
+
+* 比特币定位于一个应用，而以太坊定位于平台，你可以在这个平台上利用智能合约做各种应用。
+
+## 以太坊的初步了解
+* 使用客户端: [以太坊钱包 Mist 使用教程](https://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85%20Mist%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+* 挖矿：[鱼池](https://www.f2pool.com/),[币网](https://www.bw.com/)
+* 浏览公有链的区块信息：[比特币区块浏览器](https://btc.com/)
+* 以太坊的各个项目：
+以太坊客户端以语言进行分类，在github上分成了不同项目，源代码地址：https://github.com/ethereum/。
+虽然以太坊客户端众多，但是有两个共同特点：
+  * 同一语言的客户端在不同平台上的使用是完全相同的
+  * 不同语言的客户端（mist、geth、eth等等）之间在同一个平台（linux、windows或OSX）上共用一样的应用配置，同时其命令行可使用的参数也是一致
+* 以太坊网址（含智能合约）：
+  * 1、以太坊官方网站：https://ethereum.org/
+
+  该网站为以太坊的官方网站，有详细的以太坊介绍和各种连接地址，推荐详细看一看
+
+  * 2、以太坊所有源码地址（官方）：https://github.com/ethereum/
+
+  该github为以太坊所有项目的源码地址，以及更新和发布。
+
+  * 3、以太坊Homestead文档地址（官方）：http://www.ethdocs.org/en/latest/index.html
+
+  该网站为以太坊的详细介绍文档，基本包括了以太坊的方方面面，如果有什么不清楚的原理和应用，基本都可以在这里找到答案和线索。
+
+  * 4、以太坊网络状态地址（官方）：https://ethstats.net/
+
+  该网站能全面的显示网络状态，包括节点、难度、算力等等，非常直观
+
+  * 5、以太坊资源网站（官方）：http://ether.fund/
+
+  该网站提供了以太坊很多应用资源，比如市场情况、合约辅助工具、已发布的智能合约、以太坊网络、DAAP等，方便开发和发布。
+
+  * 6、Solidity编程文档（官方）：http://solidity.readthedocs.io/en/latest/
+
+  该网站提供了以太坊Solidity语言的全面参考手册，学习Solidity语言必备。
+
+  * 7、以太坊网络扫描（官方）：http://etherscan.io/
+
+  该网站提供了以太坊网络的各种状态，比如帐号的详情、TOKEN详情，难度详情、区块详情，非常方便和直观。
+
+  * 8、以太坊官方博客：https://blog.ethereum.org/
+
+  * 9、以太坊wiki百科地址：https://github.com/ethereum/wiki/wiki
+
+  在这里有白皮书、黄皮书以及开发指南，比较全面。
+
+  * 10、以太坊中文爱好者网站：http://ethfans.org/
+
+  该网站为国内以太坊爱好者自发建立的网站，内容比较全，信息更新很快。
+
+  * 11、以太坊的gitter的实时交流网站：https://gitter.im/orgs/ethereum/rooms
+
+  该网站是以太坊的gitter chart的网站，根据项目分了很多房间，只要你提问题，大部分有人回答，很不错，不过只能英语交流。
+
+  * 12、以太坊的官方论坛：https://forum.ethereum.org/
+
+  官方论坛，没什么好说的，我遇到的几个问题，都是在这里找到的答案
+
+  * 13、以太坊第三方强大的IDE：https://live.ether.camp/
+
+  这个是第三方发布的Solidity IDE，我看了一下，很强大，强大到还不太会用，他的目标是企业级IDE，老外用的较多。
+
+  * 14、以太坊开发框架Truffle说明书：http://truffle.readthedocs.io/en/latest/
+
+  以太坊目前很流行的开发框架Truffle的说明书，这个框架比较流行。
+
+  * 15、以太坊开发框架dapple说明书：http://dapple.readthedocs.io/en/master/
+
+  这个开发框架是在gitter chart上看到的，感觉用的人不多，先观察
+
+  * 16、以太坊官方推荐开发框架Meteor说明书：https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor
+
+  这个开发框架是以太坊官方推荐的，写进了以太坊的官方wiki，值得学习，当然，以太坊官方经常转换方向，以后换别的也没准
